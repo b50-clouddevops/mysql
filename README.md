@@ -1,4 +1,8 @@
+### Outstanding From My End :
 
+mysql schema load is not working
+TASK [mysql : Load the mysql schema] *******************************************
+fatal: [localhost]: FAILED! => {"changed": false, "msg": "The PyMySQL (Python 2.7 and Python 3.X) or MySQL-python (Python 2.X) module is required."}
 
 
 # MySQL
